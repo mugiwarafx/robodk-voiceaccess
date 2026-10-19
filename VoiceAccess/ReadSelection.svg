@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="#2d6cdf"/>
+  <text x="32" y="42" font-family="Helvetica, Arial, sans-serif" font-size="30"
+        font-weight="600" fill="#ffffff" text-anchor="middle">RS</text>
+</svg>

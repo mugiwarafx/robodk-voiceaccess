@@ -1,0 +1,16 @@
+Original VoiceAccess code: MIT. See LICENSE.txt.
+
+RoboDK Python API 6.0.2
+Copyright 2015-2026 RoboDK Inc. and contributors.
+Apache License 2.0. See LICENSE-ROBODK.txt and notices in _voiceaccess/vendor/robodk.
+Upstream: https://github.com/RoboDK/RoboDK-API
+
+RoboDK C++ PluginApiExample interface headers
+Copyright (c) 2019 RoboDK Inc. MIT license.
+See LICENSE-ROBODK-PLUGIN.txt. Headers are under native/dock/vendor in the source tree.
+
+Qt is linked dynamically from the host application. Qt frameworks, RoboDK,
+macOS and Apple speech voices are not bundled with this add-in.
+
+VoiceAccess is an independent, unofficial project. It is not affiliated with,
+endorsed by, or supported by RoboDK.

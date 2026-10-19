@@ -1,0 +1,26 @@
+# Local environments and development history
+.venv/
+.env
+.env.*
+!.env.example
+.local/
+
+# Generated builds, packages and local test fixtures
+build/
+dist/
+VoiceAccess/_native/
+VoiceAccess/_dock/
+VoiceAccess/manifest.xml
+VoiceAccess/core_properties.xml
+*.rdk
+*.robot
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+.vscode/
+.idea/

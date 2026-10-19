@@ -1,0 +1,3 @@
+*.png binary
+VoiceAccess/_voiceaccess/vendor/** linguist-vendored=true
+native/dock/vendor/** linguist-vendored=true
